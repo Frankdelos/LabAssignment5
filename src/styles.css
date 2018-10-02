@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #5efdfdaf;
+  }
+
+  .align-center{
+    margin: 15px;
+    border: 1px dashed rgb(221, 20, 20);
+  }
